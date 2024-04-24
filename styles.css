@@ -193,8 +193,9 @@ footer {
 */
 .booking-page {
     width: 600px;
-    margin-right: auto;
+    margin: 0 auto;
     font-size: 18px;
+    text-align: center;
 }
 
 .day-selector {
@@ -203,34 +204,32 @@ footer {
 
 .day-selector li{
     width: 60px;
-    margin-right:20px;
+    margin: 0 10px;
     border: 1px solid black;
+    text-align: center;
 }
 
 .small-button{
     padding: 5px;
     border: 1px solid black;
+    text-align: center;
 }
 
 .top-margin {
     margin-top: 24px;
     margin-bottom: 12px;
+    text-align: center;
 }
 
 #clear-button {
     width: 200px;
+    text-align: center;
 }
 
 .clicked {
     background-color: #E5AF42;
 }
 
-.booking-page,
-.day-selector,
-.small-button,
-#clear-button {
-    text-align: center;
-}
 
 
 
